@@ -5,7 +5,7 @@ ports = {1001: 'New York', 2809: 'San Francisco', 3901: 'Chicago', 5301: 'Housto
 keys = ['postedDate', 'eventDate', 'voidedDate', 'event', 'basis', 'action', 'entryNumber', 'portOfEntry', 'entryDate', 'entryType', 'teamNumber']
 ace_url = 'https://aceservices.cbp.dhs.gov/LBNotice/search'
 
-f = open('body.json',)
+f = open('resources/body.json',)
 body = json.load(f)
 
 start = int(input('Enter start page: '))
