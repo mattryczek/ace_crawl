@@ -1,0 +1,128 @@
+{
+    "dtPageVars": {
+        "draw": 6,
+        "columns": [
+            {
+                "data": "postedDate",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "eventDate",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "voidedDate",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "event",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "basis",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "action",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "entryNumber",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "portOfEntry",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "entryDate",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "entryType",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            },
+            {
+                "data": "teamNumber",
+                "name": "",
+                "searchable": true,
+                "orderable": false,
+                "search": {
+                    "value": "",
+                    "regex": false
+                }
+            }
+        ],
+        "order": [],
+        "start": 0,
+        "length": 100,
+        "search": {
+            "value": "",
+            "regex": false
+        }
+    },
+    "searchFields": {
+        "portOfEntry": "3901",
+        "entryType": "47"
+    }
+}
